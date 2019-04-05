@@ -1,2 +1,5 @@
 # training_codes_for_PRNet
-training codes for PRNet in Tensorflow Version
+The training code for PRNet in Tensorflow Version
+
+
+Thanks for the authors of [PRNet](https://github.com/YadiraF/PRNet) for making their excellent works publicly available.
